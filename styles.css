@@ -28,7 +28,7 @@ body {
     background-size: stretch;
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
-    padding: 32px 0;
+    padding: 44px 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
